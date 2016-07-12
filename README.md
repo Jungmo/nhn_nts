@@ -1,4 +1,4 @@
-#NHN Internship 제출용 소스코드.
+#NHN nts Internship 제출용 문제 연습
 
 아래를 구현하시오. 
 
